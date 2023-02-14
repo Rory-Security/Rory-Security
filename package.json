@@ -1,0 +1,29 @@
+{
+  "name": "rory-security",
+  "version": "2.3.0",
+  "description": "Coded By MoonTeam",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "AbolParzival || AmiraliSmath",
+  "license": "MIT",
+  "devDependencies": {
+    "node": "^18.12.1"
+  },
+  "dependencies": {
+    "@discordjs/builders": "^1.3.0",
+    "@discordjs/rest": "^1.3.0",
+    "@discordjs/voice": "^0.13.0",
+    "ascii-table": "^0.0.9",
+    "better-sqlite3": "^8.0.1",
+    "chalk": "^2.4.1",
+    "discord-api-types": "^0.37.24",
+    "discord.js": "^14.6.0",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7",
+    "ms": "^2.1.3",
+    "quick.db": "^7.1.3"
+  }
+}
