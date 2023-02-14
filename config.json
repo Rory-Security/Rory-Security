@@ -1,0 +1,12 @@
+{
+	"token": "your token here here",
+	"clientID": "your client id",
+	"prefix": "r!",
+	"voiceCN": "1050050537774661673",
+	"Smath": "964194837337362512",
+	"Parzival": "311194511931998209",
+	"GuildLogs": "1055773337915236382",
+	"messages": {
+		"COOLDOWN_MESSAGE": "You are on `<duration>` cooldown!"
+	}
+}
