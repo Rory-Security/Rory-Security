@@ -91,7 +91,7 @@ Type `npm i` to install npms our click the button blow => 
 
 ## Aboute this bot:
 
-**Rory Security** is not a personal bot or specific to a server, Rory Bot is public `and multi-guild`
+**Rory Security** is not a personal bot or specific to a server, Rory Bot is public and `multi-guild`
 
 **Rory** is a professional security bot and its main feature is the **recovery** system `/recover` command.
 
