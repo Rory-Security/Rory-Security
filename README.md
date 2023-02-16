@@ -120,3 +120,6 @@ Type `npm i` to install npms our click the button blow => 
 > **/reset** `Reset Guild Settings`
 > 
 > **/whitlist** `Whitlist Users`
+
+## __Developers__:
+__Smath & Parzival__
