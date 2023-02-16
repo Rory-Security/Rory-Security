@@ -97,24 +97,26 @@ Type `npm i` to install npms our click the button blow => 
 
 ## Commands:
 
-/anti `Turn ON/OF Anti`
-	
-/setlimt `Set Anti Limit`
-	
-/recover `Turn ON/OF Recover [Channels, Roles]`
-	
-/get `Show Guild Settings [ExteraOwners, Whitlists]`
-	
-/settings `Guild Settings`
-	
-/setpunishment `Set Punnishment [Quarantine, Kick, Ban]`
-	
-/securitylogs `Set Security Logs`
-	
-/exteraowner `ADD/REMOVE User To Extera Owners`
-	
-/invite `Invite Rory Security To Your Server`
-	
-/reset `Reset Guild Settings`
-	
-/whitlist `Whitlist Users`
+`/anti` `/setlimt` `/recover` `/get` `/settings` `/setpunishment` `/securitylogs` `/exteraowner` `/invite` `/reset` `/whitlist`
+
+> **/anti** `Turn ON/OF Anti`
+> 	
+> **/setlimt** `Set Anti Limit`
+> 	
+> **/recover** `Turn ON/OF Recover [Channels, Roles]`
+> 	
+> **/get** `Show Guild Settings [ExteraOwners, Whitlists]`
+> 	
+> **/settings** `Guild Settings`
+> 	
+> **/setpunishment** `Set Punnishment [Quarantine, Kick, Ban]`
+> 	
+> **/securitylogs** `Set Security Logs`
+> 	
+> **/exteraowner** `ADD/REMOVE User To Extera Owners`
+> 	
+> **/invite** `Invite Rory Security To Your Server`
+> 
+> **/reset** `Reset Guild Settings`
+> 
+> **/whitlist** `Whitlist Users`
