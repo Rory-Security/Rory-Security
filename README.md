@@ -137,4 +137,4 @@ Type `npm i` to install npms our click the button blow => 
   <a href="https://github.com/Amir-Smath"><img src="https://cdn.discordapp.com/attachments/931125155621666836/1074404359783329802/icons8-github-50.png" height="35" style="width: 3.5%" ><a/></div>
 <br/>
 	
-**Support Server:『 https://discord.gg/moonteam 』 GitHub:『 https://github.com/MoonTeam-Dev 』**
+**⌠💛⌡ Support Server:『 https://discord.gg/moonteam 』⌠💜⌡ GitHub:『 https://github.com/MoonTeam-Dev 』**
