@@ -123,3 +123,4 @@ Type `npm i` to install npms our click the button blow => 
 
 ## __Developers__:
 __Smath & Parzival__
+## Discord Support Server:
