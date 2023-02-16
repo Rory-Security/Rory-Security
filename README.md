@@ -122,5 +122,10 @@ Type `npm i` to install npms our click the button blow => 
 > **/whitlist** `Whitlist Users`
 
 ## __Developers__:
-__Smath & Parzival__
-## Discord Support Server:
+Parzival: https://github.com/parzivalw00
+
+Smath: https://github.com/Amir-Smath
+	
+**Support Server:** https://discord.gg/moonteam
+
+**GitHub:** https://github.com/MoonTeam-Dev
